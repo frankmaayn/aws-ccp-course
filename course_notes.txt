@@ -1,0 +1,28 @@
+Course Link: https://youtu.be/Uq5w1lnKzlk?feature=shared
+Course Hours: 7hrs
+
+Foundational:
+    - AWS Cloud Practitioner
+
+Specialty (Domain Specific):
+    - AWS Machine Learning
+
+Associate:
+    - AWS Solutions Architect
+
+
+
+
+--------------------------------------------------------
+Glossary: https://wa.aws.amazon.com/wat.concepts.wa-concepts.en.html
+
+--------------------------------------------------------
+
+
+Six Advantages of Cloud Computing:
+1. Trade capital expense for variable expense
+2. Benefit from massive economies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money running and maintaining data centers
+6. Go global in minutes
